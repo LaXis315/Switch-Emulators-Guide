@@ -57,6 +57,7 @@ Once you download the release, just extract it and run the Ryujinx executable. O
 When you launch Ryujinx for the first time, an error for missing components will pop up. To fix that, you need the prod.keys.
 
 **Keys:** `aHR0cHM6Ly9yZW50cnkub3JnLzEyOGJia2V5cw==`
+https://prodkeys.net/ryujinx-prod-keys-update//  USA QUESTO
 
 
 **Note:** Older keys are included. Download only the latest, and extract the archive using 7zip or WinRAR. If what you download also contains title.keys, delete it. It is not needed.
